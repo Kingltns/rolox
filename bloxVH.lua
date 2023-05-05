@@ -2127,22 +2127,22 @@ end)
 --------------------------------------------------------------------
 local DarkraiX = loadstring(game:HttpGet("https://raw.githubusercontent.com/zeroscgaming/zeroscgaming/main/RDE.lib/Dark%20UI", true))()
 
-local Library = DarkraiX:Window("FTSXHUB","Blox-Fruit","RightAlt",Enum.KeyCode.RightControl);
+local Library = DarkraiX:Window("KingLTN","Blox-Fruit","RightAlt",Enum.KeyCode.RightControl);
 
 --------------------------------------------------------------------
-local Main = Library:AddTab("Menu Farm","6026568198")
+local Main = Library:AddTab("Danh sách","6026568198")
 local auto = Library:AddTab("Auto Item","6026568198")
-local Combat = Library:AddTab("Player","7251993295")
-local Stats = Library:AddTab("Stats","7040410130")
-local Teleport = Library:AddTab("Teleport Island","6035190846")
+local Combat = Library:AddTab("Pvp","7251993295")
+local Stats = Library:AddTab("Điểm","7040410130")
+local Teleport = Library:AddTab("Dịch Chuyển","6035190846")
 local Dungeon = Library:AddTab("Raid","7044284832")
-local DevilFruit = Library:AddTab("Devil Fruit","7044233235")
-local Shop = Library:AddTab("Shop","6031265976")
+local DevilFruit = Library:AddTab("Trái ác quỷ","7044233235")
+local Shop = Library:AddTab("Cửa hàng","6031265976")
 local Misc = Library:AddTab("Miscellaneous","6034509993")
 local fast = Library:AddTab("Setting & fast attack","Attack")
 --------------------------------------------------------------------
 Main:AddSeperator("- Scrip by KingLTN - viet hoa cript -")
-Main:AddSeperator("V1 Make")
+Main:AddSeperator("fb.com/kenchuboy2")
 
 Time = Main:AddLabel("Thời gian hệ thống")
 
