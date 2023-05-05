@@ -110,6 +110,8 @@ html, body {
 }
 
 body {
+  --background_color: #000;
+  --background_image: url("../png/black.png");
   display: flex;
   justify-content: center;
   align-items: center;
@@ -187,3 +189,4 @@ img {
   mask-border: var(--_m);
   clip-path: polygon(-41% 0, 50% 91%, 141% 0);
 }
+ 
