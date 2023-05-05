@@ -111,7 +111,7 @@ html, body {
 
 body {
   --background_color: #000;
-  --background_image: url("../png/black.png");
+  --background_image: url("../png/black.jpg");
   display: flex;
   justify-content: center;
   align-items: center;
