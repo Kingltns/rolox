@@ -110,14 +110,12 @@ html, body {
 }
 
 body {
- 
-  background_image: url("../png/black.jpg");
   display: flex;
   justify-content: center;
   align-items: center;
   -webkit-filter: contrast(120%);
   filter: contrast(120%);
-  background-image:  url("../png/black.jpg") dial-gradient(1600px at 70% 120%, rgba(33, 39, 80, 1) 10%, #020409 100%) !important;        /* background-color: black; */
+  background-image: url("../png/black.jpg"); !important;        /* background-color: black; */
 }
 
 .container2 {
