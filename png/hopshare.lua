@@ -5,8 +5,8 @@ breakgiantchest = true -- Weather To Break The Giant Mine Chest Even If Its Belo
 breakbigchests = true -- Weather To Break The Big Mine Chests Even If They Are Below The Multi
 Settings = {
     ["Webhooks"] = {
-        ["Server Hop Webhook"] = "",
-        ["Time Frame Webhook"] = "",
+        ["Server Hop Webhook"] = "https://discord.com/api/webhooks/1118460561575919626/GLu058NF_FL85EhKID6qbxVTd0hsalT_nBC3brxl4PRbkgr-oOPcbH1nZDDmKWLwpa3p",
+        ["Time Frame Webhook"] = "https://discord.com/api/webhooks/1118460561575919626/GLu058NF_FL85EhKID6qbxVTd0hsalT_nBC3brxl4PRbkgr-oOPcbH1nZDDmKWLwpa3p",
         ["Timeframe"] = 60 -- Seconds
     }
 }
